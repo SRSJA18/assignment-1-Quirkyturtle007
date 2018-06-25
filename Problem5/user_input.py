@@ -30,7 +30,7 @@ October 20 1977
 # TODO 1. Ask for the first name and store it in a variable
 first=input("what is your first name:")
 # TODO 2. Ask for the last name and store it in a variable
-last=input("what isyour last name:")
+last=input("what is your last name:")
 # TODO 3. Print "Enter your date of birth:"
 print("enter your date of birth:")
 # TODO 4. Ask for the Month and store it in a variable
